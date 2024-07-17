@@ -31,9 +31,9 @@ function Experience() {
           <div>
             <div className="flex flex-col gap-6">
               {
-                experiences.map(experience => (
+                experiences.map((experience , index)=> (
                  
-                    <div className="p-3 relative">
+                    <div key={index}  className="p-3 relative">
                       <Image
                         src="/blur-23.svg"
                         alt="Hero"
