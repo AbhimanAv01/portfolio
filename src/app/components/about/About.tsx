@@ -17,7 +17,7 @@ const slugs = [
   "gitlab",
   "visualstudiocode",
   "androidstudio",
-  "mongodb", 
+  "mongoDB", 
   "mysql",
   "bootstrap",
 ];
