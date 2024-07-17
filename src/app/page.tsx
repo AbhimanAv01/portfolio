@@ -8,7 +8,7 @@ import Education from "./components/Education/Education";
 import  Projects  from "./components/projects/Projetcs";
 import Contactus from "./components/contactus/contactus";
 import Skills from "./components/skills/Skills";
-import Layout from "./components/layout"
+import Layout from "./components/layout";
 
 
 
