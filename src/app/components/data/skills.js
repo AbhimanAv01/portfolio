@@ -9,7 +9,6 @@ import mongodb from '../svg/mongodb.svg';
 import mysql from '../svg/mysql.svg';
 import git from '../svg/git.svg';
 import bootstrap from '../svg/bootstrap.svg';
-import node from '../svg/nodejs.svg';
 import express from '../svg/expressjs.svg';
 import java from '../svg/java.svg';
 
