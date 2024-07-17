@@ -3,12 +3,13 @@ import css from '../svg/css.svg';
 import javascript from '../svg/javascript.svg';
 import typescript from '../svg/typescript.svg';
 import react from '../svg/react.svg';
-import nextjs from '../svg/nextjs.svg';
+import nextjs from '../svg/nextJS.svg';
 import tailwind from '../svg/tailwind.svg';
-import mongodb from '../svg/mongodb.svg';
+import mongodb from '../svg/mongoDB.svg';
 import mysql from '../svg/mysql.svg';
 import git from '../svg/git.svg';
 import bootstrap from '../svg/bootstrap.svg';
+import node from '../svg/nodejs.svg';
 import express from '../svg/expressjs.svg';
 import java from '../svg/java.svg';
 
