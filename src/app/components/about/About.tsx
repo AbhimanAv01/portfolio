@@ -35,7 +35,7 @@ function AboutSection() {
         </div>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 animate-appear1">
-        <div className="order-2 lg:order-1">
+        <div className="order-2 lg:order-1 md:py-64">
           <p className="font-medium mb-5 text-white text-xl uppercase">
             Who I am?
           </p>
